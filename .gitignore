@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+venv.zip
+
+# Frontend build and dependencies
+client.zip
+node_modules/
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env 

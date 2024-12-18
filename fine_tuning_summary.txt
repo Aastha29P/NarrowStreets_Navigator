@@ -1,0 +1,15 @@
+
+Fine-Tuning Summary:
+--------------------
+Job ID: ftjob-Q0DuBG1ly5K2d2B8hCZnQXC3
+Model: ft:gpt-4o-mini-2024-07-18:personal::Ae9mdwfc
+Status: succeeded
+Created At: 1734132536
+Evaluation Metrics:
+- Average Accuracy: 0.00
+- Average BLEU Score: 0.00
+Parameters:
+- Base Model: gpt-4o-mini-2024-07-18
+- Epochs: 4
+- Training File: train.jsonl
+- Validation File: validation.jsonl
